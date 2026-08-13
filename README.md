@@ -1,15 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Kaustubh 👋
+# Hi there, I'm Kaustubh Mude 👋
 
-### AI/ML Enthusiast · Lifelong Learner · Problem Solver
+### Data Science & Analytics · Python · Machine Learning · SQL · Tableau · NLP
 
-I'm passionate about **Machine Learning** and **Artificial Intelligence** — building intelligent systems, exploring deep learning, and turning data into decisions.
+I turn raw data into **actionable insights** — building ML models, exploring NLP, and visualizing stories with data. Based in **Pune, India**.
 
 [![GitHub followers](https://img.shields.io/github/followers/kaustubh770?style=for-the-badge&logo=github&label=Follow&color=1f6feb)](https://github.com/kaustubh770)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh770)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaustubh770)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=react&logoColor=white)](https://kaustubh770.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-mude-918872317)
+[![Email](https://img.shields.io/badge/Email-Keep%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaustubhmude05@gmail.com)
 
 </div>
 
@@ -17,41 +16,38 @@ I'm passionate about **Machine Learning** and **Artificial Intelligence** — bu
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **Deep Learning** and **Computer Vision**
-- 🤖 Building AI projects, from classic ML to neural networks
-- 📚 Love solving problems and competing in hackathons
-- 💡 Always learning something new — currently **PyTorch**
-- 📫 Reach me: **kaustubh770@gmail.com**
+- 🔬 Passionate about **Machine Learning** and **Explainable AI (XAI)**
+- 🧠 Exploring **NLP** and **Data Analytics** with Python & SQL
+- 📊 Love building dashboards and turning numbers into stories (**Tableau · Power BI**)
+- 💡 Always learning — currently diving deeper into **deep learning**
+- 📫 Reach me: **kaustubhmude05@gmail.com**
 
 ---
 
-## 🧠 My Tech Stack
+## 🧰 My Tech Stack
 
 <div align="center">
 
-### Languages
+### Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI / ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### ML / Analytics
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -77,8 +73,10 @@ I'm passionate about **Machine Learning** and **Artificial Intelligence** — bu
 
 | Project | Description |
 |:--------|:------------|
-| 🔬 **Coming Soon** | An AI/ML project I'm working on |
-| 📈 **Coming Soon** | Data science exploration |
+| 🫀 [**XAI-CardioRisk-Intelligence**](https://github.com/kaustubh770/XAI-CardioRisk-Intelligence) | Multiclass cardiovascular risk prediction with ML models, XAI integration & feature importance visualization |
+| 🚗 [**Car_Price_Prediction**](https://github.com/kaustubh770/Car_Price_Prediction) | End-to-end regression model to predict used car prices using Python, Pandas, Scikit-learn & Random Forest |
+| 🧪 [**OpinionmetrixAI**](https://github.com/kaustubh770/OpinionmetrixAI) | AI-powered opinion/sentiment analysis |
+| 📊 [**Customer_Behavior_Analyasis**](https://github.com/kaustubh770/Customer_Behavior_Analyasis) | Customer behavior analytics using Python, SQL & Power BI |
 
 </div>
 
@@ -86,9 +84,9 @@ I'm passionate about **Machine Learning** and **Artificial Intelligence** — bu
 
 <div align="center">
 
-## 📌 Pinned & Recent Activity
+## 📌 Let's Connect
 
-Keep an eye on this space — I'm always building something new!
+I'm always open to discussing data, ML, and new ideas!
 
 ⭐ **Star** a repo if you find something useful, and let's connect!
 
