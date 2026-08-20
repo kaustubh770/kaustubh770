@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kaustubh Mude 👋
 
-### Data Science & Analytics · Python · Machine Learning · SQL · Tableau · NLP
+### Data Science & Analytics · Python · Machine Learning · SQL · Power BI · NLP
 
 I turn raw data into **actionable insights** — building ML models, exploring NLP, and visualizing stories with data. Based in **Pune, India**.
 
